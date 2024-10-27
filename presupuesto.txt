@@ -3,3 +3,5 @@ proyecto de compra
 cables
 madera
 tornillos
+clavos
+hierro
